@@ -1,0 +1,1 @@
+datasets trl peft transformers==4.45.2 bitsandbytes accelerate openai-whisper gTTS pydub ffmpeg-python edge_tts
